@@ -1,1 +1,1 @@
-# g-lingua-web
+# g-lingua-mobile
