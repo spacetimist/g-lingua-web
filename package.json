@@ -5,6 +5,11 @@
     "@react-navigation/stack": "^7.1.1",
     "expo-auth-session": "^6.0.2",
     "expo-constants": "^17.0.4",
-    "firebase": "^11.1.0"
+    "firebase": "^11.1.0",
+    "react-native-web": "~0.19.6",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
   }
 }
